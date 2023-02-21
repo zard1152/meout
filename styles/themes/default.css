@@ -1,0 +1,31 @@
+:root {
+    --color-background: #fff;
+    --color-foreground: #000;
+
+    --color-accent-1: #fafafa;
+    --color-accent-2: #eaeaea;
+    --color-accent-3: #999;
+    --color-accent-4: #888;
+    --color-accent-5: #666;
+    --color-accent-6: #444;
+    --color-accent-7: #333;
+    --color-accent-8: #111;
+
+    --color-highlight: #50e3e3;
+}
+
+.dark {
+    --color-background: #000;
+    --color-foreground: #fff;
+
+    --color-accent-1: #111;
+    --color-accent-2: #333;
+    --color-accent-3: #444;
+    --color-accent-4: #666;
+    --color-accent-5: #888;
+    --color-accent-6: #999;
+    --color-accent-7: #eaeaea;
+    --color-accent-8: #fafafa;
+
+    --color-highlight: #f81ce5;
+}

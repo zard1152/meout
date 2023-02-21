@@ -1,0 +1,8 @@
+@import url('themes/default.css');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::selection {
+    @apply text-black bg-highlight
+}
